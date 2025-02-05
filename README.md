@@ -33,7 +33,7 @@ I’m **cichutki** — student and technology enthusiast 🚀
 - **Exiled** — framework for writing SCP:SL plugins
 
 📫 **How to reach me:**
-- **DM me on Discord: ```_cichutki_```
+- **DM me on Discord:** ```_cichutki_```
 
 Am mostly working on private repos.
 
