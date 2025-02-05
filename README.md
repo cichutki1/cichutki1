@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi There!
 
-I’m **cichutki** — student and developer 🚀  
+I’m **cichutki** — student and technology enthusiast 🚀  
 
 💻 **What do I do?**  
 - I create programming-related projects, focusing on efficiency and clean code.  
@@ -28,9 +28,12 @@ I’m **cichutki** — student and developer 🚀
 - Video games, especially **SCP: Secret Laboratory**, a goofy game about monsters
 
 🔧 **Currently learning:**  
-- **C#** — building applications  
+- **C#** — building applications in .NET 
 - **C++** — exploring the depths of low-level programming
-- **Exiled** — framework for writing SCP:SL plugins 
+- **Exiled** — framework for writing SCP:SL plugins
+
+📫 **How to reach me:**
+- **DM me on Discord: ```_cichutki_```
 
 Am mostly working on private repos.
 
